@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobilecodespk.github.io/sitemap.xml
